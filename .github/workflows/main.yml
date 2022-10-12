@@ -1,0 +1,2 @@
+- name: DeadFinder Action
+  uses: hahwul/deadfinder@1.3.0
